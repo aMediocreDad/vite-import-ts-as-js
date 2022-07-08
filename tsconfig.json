@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"module": "Node16",
+		"allowJs": true
+	},
+	"include": ["*.ts"],
+	"exclude": ["node_modules"]
+}
